@@ -20,4 +20,4 @@ It enables traders to benefit from deep liquidity, fast order matching, and effi
 
 ## Contact
 - Twitter:  [@defai_maxi](https://x.com/defai_maxi)
-- Telegram: [@rhettjel](https://t.me/rhettjel)
+- Telegram: [@defai_maxi](https://t.me/defai_maxi)
