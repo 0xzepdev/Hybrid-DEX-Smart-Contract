@@ -1,7 +1,7 @@
-# Hybrid DEX Smart Contract
+# Solana DEX Smart Contract
 
 ## Overview
-This Hybrid DEX Smart Contract is a next-generation decentralized exchange (DEX) that integrates the order book model with the Raydium aggregator to provide optimal trade execution on Solana. 
+This Solana DEX Smart Contract is a next-generation decentralized exchange (DEX) that integrates the order book model with the Raydium aggregator to provide optimal trade execution on Solana. 
 It enables traders to benefit from deep liquidity, fast order matching, and efficient routing for the best prices.
 
 ## Key Features
